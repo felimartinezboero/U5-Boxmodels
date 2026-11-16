@@ -22,7 +22,7 @@ h1 {
 .item {
     display: flex;
     flex-direction: column;
-    background-color: #dce6ec;
+    background-color: #f28c28;
     color: #20252b;
     border-radius: 8px;
     padding: 16px;
